@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\sadiq\Dropbox\My PC (LAPTOP-086099RV)\Documents\HelloWorld\venv
+set VIRTUAL_ENV=C:\Users\sadiq\Dropbox\My PC (LAPTOP-086099RV)\Documents\New_Hello_World\venv
 
 if not defined PROMPT set PROMPT=$P$G
 

@@ -26,7 +26,7 @@ This is a Basic Test of how to code Hello World.
 
 {Describe the programming language that you used}
 
-* I used Python for this
+* I used Python for this tempelate
 
 # Useful Websites
 
